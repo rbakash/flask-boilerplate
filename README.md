@@ -1,3 +1,5 @@
+## To-do: Need to resolve the 404 for the static resouces in all the webpage and provide the routes for the same.
+
 ## Folder structure (Don't pollute the folder structure)
 ```
 └── Online-furniture-store
